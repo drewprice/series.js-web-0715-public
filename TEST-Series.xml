@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="11" errors="0" failures="0" time="0.012" timestamp="2015-09-09T18:12:01">
+		<testcase classname="Series" name="has digits (short)" time="0.003">
+		</testcase>
+		<testcase classname="Series" name="has digits (long)" time="0">
+		</testcase>
+		<testcase classname="Series" name="keeps the digit order if reversed" time="0">
+		</testcase>
+		<testcase classname="Series" name="keeps arbitrary digit order" time="0">
+		</testcase>
+		<testcase classname="Series" name="can slice by 1" time="0">
+		</testcase>
+		<testcase classname="Series" name="can slice by 2" time="0">
+		</testcase>
+		<testcase classname="Series" name="can slice by 3" time="0.001">
+		</testcase>
+		<testcase classname="Series" name="can slice by 3 with duplicate digits" time="0">
+		</testcase>
+		<testcase classname="Series" name="can slice by 4" time="0">
+		</testcase>
+		<testcase classname="Series" name="can slice by 5" time="0.001">
+		</testcase>
+		<testcase classname="Series" name="throws an error if not enough digits to slice" time="0.001">
+		</testcase>
+	</testsuite>
+</testsuites>
+
